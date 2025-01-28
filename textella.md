@@ -1,3 +1,7 @@
+layout: page
+title: "Textella Privacy Policy"
+permalink: /textella-privacy-policy
+
 # Privacy Policy for Textella
 
 **Effective Date:** 2025-01-28
